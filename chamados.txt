@@ -1,0 +1,103 @@
+Nome / Contato: as
+
+Telefone para retorno: ss
+
+Incidente / Solicitação:  s
+
+Chamado vinculado:  ss
+
+Contrato:  ss
+
+Observações adicionais:  s
+
+====================================
+Nome / Contato: amsdsa
+
+Telefone para retorno: sdsd
+
+Incidente / Solicitação:  asdas
+
+Chamado vinculado:  dsadas
+
+Contrato:  dasd
+
+Observações adicionais:  asdas
+
+Teste de ping:
+
+PING 186.225.16.131 (186.225.16.131) 56(84) bytes of data.64 bytes from 186.225.16.131: icmp_seq=1 ttl=57 time=1.41 ms64 bytes from 186.225.16.131: icmp_seq=2 ttl=57 time=1.34 ms64 bytes from 186.225.16.131: icmp_seq=3 ttl=57 time=1.42 ms64 bytes from 186.225.16.131: icmp_seq=4 ttl=57 time=1.40 ms64 bytes from 186.225.16.131: icmp_seq=5 ttl=57 time=1.40 ms--- 186.225.16.131 ping statistics ---5 packets transmitted, 5 received, 0% packet loss, time 4005msrtt min/avg/max/mdev = 1.345/1.400/1.421/0.049 ms
+
+====================================
+Nome / Contato: asdas
+
+Telefone para retorno: asdsa
+
+Incidente / Solicitação:  dsadsa
+
+Chamado vinculado:  dasd
+
+Contrato:  asdsa
+
+Observações adicionais:  dsad
+
+====================================
+Nome / Contato: asd
+
+Telefone para retorno: sadsa
+
+Incidente / Solicitação:  dsad
+
+Chamado vinculado:  asdas
+
+Contrato:  dsad
+
+Observações adicionais:  sad11/02/2019 14:13:20
+
+====================================
+Nome / Contato: muca
+
+Telefone para retorno: muca
+
+Incidente / Solicitação:  muca
+
+Chamado vinculado:  muca
+
+Contrato:  muca
+
+Observações adicionais:  muca
+
+Teste de ping:
+
+connect: Argumento inválido
+
+11/02/2019 14:15:32====================================
+Nome / Contato: muca
+
+Telefone para retorno: as
+
+Incidente / Solicitação:  s
+
+Chamado vinculado:  ss
+
+Contrato:  ss
+
+Observações adicionais:  ss
+
+Teste de ping:
+
+PING 192.168.2.1 (192.168.2.1) 56(84) bytes of data.--- 192.168.2.1 ping statistics ---5 packets transmitted, 0 received, 100% packet loss, time 4103ms
+
+11/02/2019 14:16:27====================================
+Nome / Contato: muca
+
+Telefone para retorno: mca
+
+Incidente / Solicitação:  ss
+
+Chamado vinculado:  s
+
+Contrato:  s
+
+Observações adicionais:  s
+
+11/02/2019 14:35:10====================================
